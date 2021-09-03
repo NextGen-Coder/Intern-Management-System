@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235877950945",
+    "project_id": "interns-db",
+    "storage_bucket": "interns-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235877950945:android:99395cd4e7ce6a5bd65ea0",
+        "android_client_info": {
+          "package_name": "co.in.nextgencoder.internsmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235877950945-ea2sohd2p2pvfcepbmvr10u1jb7mrk28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7hE6NQP3BVugSrQekKOxC9W04FHJucY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235877950945-ea2sohd2p2pvfcepbmvr10u1jb7mrk28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
