@@ -10,8 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.InternsManagementSystem">
         <activity
+            android:name=".CompanyLoginActivity"
+            android:exported="true"/>
+
+        <activity
+            android:name=".CompanyForgotPassword"
+            android:exported="true"/>
+        <activity
             android:name=".CreateCompanyActivity"
-            android:exported="true" ></activity>
+            android:exported="true" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
