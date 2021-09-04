@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Interns Management System</string>
+    <string name="intern">Intern</string>
+    <string name="login_as_mentern">Login as Mentern</string>
+    <string name="login_as_intern">Login as Intern</string>
+    <string name="company_portal">Company Portal</string>
+    <string name="login_as_menter">Login as Menter</string>
 </resources>
