@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Interns Management System</string>
+    <string name="admin_details">Admin Details</string>
+    <string name="create">Create</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_e_mail">Enter your E-mail</string>
 </resources>
