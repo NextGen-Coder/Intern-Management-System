@@ -1,0 +1,14 @@
+package co.in.nextgencoder.internsmanagementsystem;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+public class CompanyForgotPassword extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_company_forgot_password);
+    }
+}
