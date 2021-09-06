@@ -9,14 +9,23 @@
         android:roundIcon="@mipmap/logo_transparent"
         android:supportsRtl="true"
         android:theme="@style/Theme.InternsManagementSystem">
-
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true"
+            android:label="@string/title_activity_home" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".CompanyForgotPassword" />
+        <activity android:name=".CompanyLoginActivity" />
+        <activity android:name=".CreateAdminActivity" />
+        <activity android:name=".CreateCompanyActivity" />
+        <activity android:name=".MainActivity">
 
+        </activity>
     </application>
 
 </manifest>
