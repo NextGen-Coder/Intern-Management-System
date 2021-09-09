@@ -16,4 +16,7 @@
     <string name="next_button">Next</string>
     <string name="title_workspace">Workspace</string>
     <string name="title_profile">Profile</string>
+    <string name="login_as_intern">Login as Intern</string>
+    <string name="login_as_menter" >Login as Mentor</string>
+    <string name="company_portal">Company Portal</string>
 </resources>
