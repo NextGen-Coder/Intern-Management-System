@@ -1,8 +1,19 @@
 <resources>
     <string name="app_name">Interns Management System</string>
-    <string name="intern">Intern</string>
-    <string name="login_as_mentern">Login as Mentern</string>
-    <string name="login_as_intern">Login as Intern</string>
-    <string name="company_portal">Company Portal</string>
-    <string name="login_as_menter">Login as Menter</string>
+    <string name="admin_details">Admin Details</string>
+    <string name="create">Create</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_e_mail">Enter your E-mail</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="company_details">Company Details</string>
+    <string name="company_name">Enter company name</string>
+    <string name="company_phone_number">Enter company phone number</string>
+    <string name="registration_number">Enter company registration number</string>
+    <string name="next_button">Next</string>
+    <string name="title_workspace">Workspace</string>
+    <string name="title_profile">Profile</string>
 </resources>
